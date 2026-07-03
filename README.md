@@ -4,6 +4,7 @@ Repositorio académico correspondiente a la Unidad 2 (PID-2025). Contiene la tra
 
 ## Estructura
 - `/APEs`: Laboratorios 06 al 11 debidamente documentados y ejecutados.
+[APEs]
 - `/Evaluacion_Sumativa`: Proyecto final.
 - `BITACORA.md`: Autoevaluación y reflexión sobre los aprendizajes obtenidos.
 
