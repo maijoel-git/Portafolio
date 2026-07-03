@@ -1,11 +1,14 @@
-# Portafolio - Unidad 2
+# Portafolio de Inferencia Estadística - Unidad 2
 
-Repositorio académico que recopila el trabajo de la Unidad 2 de la materia de Computación (UNL). 
+Repositorio académico correspondiente a la Unidad 2 (PID-2025). Contiene la trazabilidad de las actividades académicas desarrolladas.
 
-## Estructura del Portafolio
-- **APEs:** Contiene las guías de laboratorio (APE 06 a 11) desarrolladas y corregidas.
-- **Evaluación_Sumativa:** Contiene el cuaderno de código (`.ipynb`) con el análisis técnico y el archivo fuente de datos de Loja.
-- **BITACORA.md:** Registro detallado de la autoevaluación y aprendizajes de la unidad.
+## Estructura
+- `/APEs`: Laboratorios 06 al 11 debidamente documentados y ejecutados.
+- `/Evaluacion_Sumativa`: Proyecto final.
+    - `Analisis_Estadistico.ipynb`: Cuaderno con el test paramétrico, ANOVA y justificación estadística.
+    - `data/`: Source de los datos regionales de Loja.
+- `BITACORA.md`: Autoevaluación y reflexión sobre los aprendizajes obtenidos.
 
 ---
-*Este proyecto es parte del hito integrador PID-2025.*
+*Estudiante: Michael Joel Carbay Agila*
+*Carrera: Computación, Universidad Nacional de Loja*
