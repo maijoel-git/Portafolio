@@ -8,5 +8,5 @@ Repositorio académico correspondiente a la Unidad 2 (PID-2025). Contiene la tra
 - `Bitacora`: Autoevaluación y reflexión sobre los aprendizajes obtenidos.
 
 ---
-*Estudiante: Michael Joel Carbay Agila*
+*Estudiante: Michael Joel Carbay Ajila*
 *Carrera: Computación, Universidad Nacional de Loja*
